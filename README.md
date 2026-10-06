@@ -2,15 +2,8 @@
 
 Uma experiência 3D interativa desenvolvida para a web, criada com [Three.js / React Three Fiber / Spline].
 
-![Preview do Projeto](./assets/preview.gif) <!-- Substitua por um GIF ou imagem do projeto -->
-
 ---
 
-## 🚀 Demo Online
-
-🔗 **Acesse o projeto:** [Link para o Deploy (Vercel, Netlify, GitHub Pages)](https://seu-link.vercel.app)
-
----
 
 ## 📌 Sobre o Projeto
 
