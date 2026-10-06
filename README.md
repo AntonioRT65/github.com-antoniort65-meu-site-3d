@@ -7,7 +7,7 @@ Uma experiência 3D interativa desenvolvida para a web, criada com [Three.js / R
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como um experimento/demonstração de computação gráfica na web. O objetivo principal foi explorar [mencione o foco: ex. iluminação, animação 3D, interatividade com o usuário, física, etc.].
+Este projeto foi desenvolvido como um experimento/demonstração de computação gráfica na web. O objetivo principal foi explorar  iluminação, animação 3D, interatividade com o usuário, físicas.
 
 Ele faz parte do meu portfólio de projetos web e interativos.
 
