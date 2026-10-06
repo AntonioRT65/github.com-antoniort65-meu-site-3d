@@ -24,6 +24,5 @@ Ele faz parte do meu portfólio de projetos web e interativos.
 
 - **Renderização 3D:** [Three.js / React Three Fiber / WebGL / Spline]
 - **Front-end:** [HTML/CSS/JS ou React / Next.js / Vite]
-- **Modelagem / Assets:** [Blender / Ready Player Me / Sketchfab] *(se aplicável)*
-- **Hospedagem:** [Vercel / Netlify / GitHub Pages]
+
 
