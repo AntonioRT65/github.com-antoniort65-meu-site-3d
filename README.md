@@ -16,8 +16,6 @@ Ele faz parte do meu portfólio de projetos web e interativos.
 ## ✨ Funcionalidades
 
 - 🔄 **Interação 3D:** Órbita de câmera, zoom e rotação controlados pelo usuário.
-- 🎨 **Renderização em Tempo Real:** [Mencione shaders, materiais reflexivos, sombras, etc.].
-- ⚡ **Performance Otimizada:** Modelos 3D levemente otimizados (formato `.gltf` / `.glb`).
 - 📱 **Responsivo:** Adaptado para diferentes tamanhos de tela.
 
 ---
