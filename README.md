@@ -1,4 +1,4 @@
-# 🎲 Nome do Projeto 3D
+# 🎲 Web 3D
 
 Uma experiência 3D interativa desenvolvida para a web, criada com [Three.js / React Three Fiber / Spline].
 
